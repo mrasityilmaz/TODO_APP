@@ -2,6 +2,10 @@
 # BasicTODOApp
 
 
+
+
+![ss](https://github.com/mrasityilmaz/TODO_APP/blob/main/preview.png)
+
 Flutter ile yaptığım basit bir uygulama.
 
 ![aaa](https://user-images.githubusercontent.com/81583706/151632061-8fcbb368-2797-4159-ab0d-4338521dd660.png)
